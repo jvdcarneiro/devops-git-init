@@ -1,2 +1,1 @@
-Alterações no readme.md
-Atualizando arquivo, aguarde...
+Arquivo alterado.
